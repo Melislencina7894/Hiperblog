@@ -6,10 +6,11 @@ body
      font-size: 18px;
      margin: 0;
      padding: 0;
+     background: pink;
 }
 
 #cabecera {
-     background: #33A;
+     background: #37488b;
      box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
      color: white;
      font-weight: bold;
